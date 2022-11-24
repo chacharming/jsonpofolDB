@@ -1,0 +1,24 @@
+[
+    {
+        "nlText" : "소개합니다",
+        "nlLink" : "#about",
+        "nlClassNm" : "scrollPage",
+        "isNav" : true
+    },{
+        "nlText" : "포트폴리오",
+        "nlLink" : "#portfolio",
+        "nlClassNm" : "scrollPage",
+        "isNav" : true
+    },{
+        "nlText" : "사전인터뷰",
+        "nlLink" : "#interview",
+        "nlTarget" : "",
+        "nlClassNm" : "scrollPage",
+        "isNav" : true
+    },{
+        "nlText" : "물어보세요",
+        "nlLink" : "#contact",
+        "nlClassNm" : "scrollPage",
+        "isNav" : true
+    }
+]
